@@ -17,6 +17,8 @@ When you start an activity on the computer with a long feature, access the appli
 $git clone https://github.com/gabrielg81/moveit.git
 ```
 or use the [download](https://github.com/renantb/moveit/archive/refs/heads/main.zip) option.
+
+or you can access the application by the [link](https://moveit-orcin-five.vercel.app/)
 ```
 # Enter the web folder with
 $cd moveit
