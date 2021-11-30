@@ -1,4 +1,4 @@
-# move it
+# Move it
 ### _An application that aims to benefit your physical and mental health!_
 ---
 ## 🚀 Technologies used for development!
