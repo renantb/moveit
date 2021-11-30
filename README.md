@@ -16,7 +16,7 @@ When you start an activity on the computer with a long feature, access the appli
 # Open a terminal and copy this repository with the command
 $git clone https://github.com/gabrielg81/moveit.git
 ```
-or use the [download](https://github.com/Gabrielg81/moveit/archive/main.zip) option.
+or use the [download](https://github.com/renantb/moveit/archive/refs/heads/main.zip) option.
 ```
 # Enter the web folder with
 $cd moveit
